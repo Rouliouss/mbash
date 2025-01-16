@@ -1,0 +1,16 @@
+commande&
+$&
+autocomplétion
+history avec un fichier
+ctrl r
+parametrage de prompts via PS1
+regex (automate)
+if then elif fi while
+variables
+wait
+|
+||
+&&
+>
+
+partie 2
